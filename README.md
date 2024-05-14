@@ -6,11 +6,24 @@ The design principles of the von Neumann architecture have been prolific in the 
 
 # 8T SRAM Design
 ![8TSRAM_DARK](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/3e388c3d-413e-4d8e-a3a5-de5d00254bd7)
+
 Image 1. 8T-SRAM Schematic
 
 
 ![8TSRAMV4Layout_DARK](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/0e675d09-d600-4c67-a899-ed0985904eba)
+
 Image 2. 8T-SRAM Layout
 
 # Sense Amplifier
 
+
+![Sense_Amp_Schematic](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/9469eb75-ead2-48d3-9b2b-982dafdda1a7)
+
+Image 3. Senses Amplifier Schematic
+
+
+![amp_LAYOUT](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/41218771-c8f7-48f0-b8b4-46c9b48dfbb7)
+
+Image 4. Sense Amplifier Layout
+
+# Sense Amplifier with Adder
