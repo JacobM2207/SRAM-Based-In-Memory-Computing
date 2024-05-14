@@ -26,4 +26,20 @@ Image 3. Senses Amplifier Schematic
 
 Image 4. Sense Amplifier Layout
 
-# Sense Amplifier with Adder
+# Full Adder Module
+
+
+![schematic](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/338c6d40-b0f2-4d9e-bc3d-7630d07f6c90)
+
+Image 5. Full Adder Module Schematic
+
+
+![layout](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/7d060018-62ca-46d5-9f7a-3be768804216)
+
+Image 6. Full Adder Module Layout
+
+# 64 x 64 SRAM Array Layout
+
+![Full_Project](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/f57263dd-959f-44d9-b268-f4a1d9429ede)
+
+Image 7. Full Layout
