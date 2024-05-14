@@ -14,6 +14,8 @@ Image 1. 8T-SRAM Schematic
 
 Image 2. 8T-SRAM Layout
 
+
+
 # Sense Amplifier
 
 
@@ -43,3 +45,9 @@ Image 6. Full Adder Module Layout
 ![Full_Project](https://github.com/JacobM2207/SRAM-Based-In-Memory-Computing/assets/122327307/f57263dd-959f-44d9-b268-f4a1d9429ede)
 
 Image 7. Full Layout
+ 
+
+
+
+
+
